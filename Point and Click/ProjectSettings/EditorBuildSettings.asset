@@ -77,4 +77,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/17DoctorscoatChaos.unity
     guid: 2c51e12c03ed0b6488fd2bb37d2a79d2
+  - enabled: 1
+    path: Assets/Scenes/19ARemoulade.unity
+    guid: 58d6090e1db061e40a8926d4985ee46f
+  - enabled: 1
+    path: Assets/Scenes/19RemouladePeace.unity
+    guid: 6082e8086b68c9c46a2f7ac68d416bc1
+  - enabled: 1
+    path: Assets/Scenes/20RemouladeChaos.unity
+    guid: f1d298c43957d4248aa331320441ac31
+  - enabled: 1
+    path: Assets/Scenes/21ACake.unity
+    guid: 68e4d286f19422f4f86b9114a9291610
+  - enabled: 1
+    path: Assets/Scenes/21CakePeace.unity
+    guid: 317383b7c5597b84e8b20d0d7a1fd4e2
+  - enabled: 1
+    path: Assets/Scenes/22CakeChaos.unity
+    guid: 8aa41e80b86640948918cd5b53ac6a3c
+  - enabled: 1
+    path: Assets/Scenes/23ACurtainrod.unity
+    guid: 111a4045b9d9e174c997e6931142ace3
+  - enabled: 1
+    path: Assets/Scenes/23CurtainrodPeace.unity
+    guid: ecd0fdcc340cebb48afccaf3d326e8b9
+  - enabled: 1
+    path: Assets/Scenes/24CurtainrodChaos.unity
+    guid: c4d5af2719bfe6345b64572aab7f7813
   m_configObjects: {}
