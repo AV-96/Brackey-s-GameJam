@@ -4,5 +4,77 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01Start Screen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/02Dentist's office.unity
+    guid: 038aeaffd08e1e6448a8d13e436fa303
+  - enabled: 1
+    path: Assets/Scenes/03Hallway.unity
+    guid: b0b46eac6408e7945911790d252a89c2
+  - enabled: 1
+    path: Assets/Scenes/11Dentist's office.unity
+    guid: 69004454620e5384a9a7aa2a51370c9e
+  - enabled: 1
+    path: Assets/Scenes/04Waiting room.unity
+    guid: f135231e027f8a24b878240fac871fdd
+  - enabled: 1
+    path: Assets/Scenes/18Worker's lounge.unity
+    guid: ed78d42feba9ae847a036aa09126592e
+  - enabled: 1
+    path: Assets/Scenes/05ARubberSnake.unity
+    guid: d9731cd2f35faca438c5566da218a6b8
+  - enabled: 1
+    path: Assets/Scenes/05RubberSnakePeace.unity
+    guid: f025fd00c304f64429a3989f742a04ce
+  - enabled: 1
+    path: Assets/Scenes/06RubberSnakeChaos.unity
+    guid: ef8dda2d2faa9a74e889a61cf79e9690
+  - enabled: 1
+    path: Assets/Scenes/07ABabydoll.unity
+    guid: 42c222422e1d8584da2814738a8940e6
+  - enabled: 1
+    path: Assets/Scenes/07BabydollPeace.unity
+    guid: 816bacad6ccef1645be650127e41c0e8
+  - enabled: 1
+    path: Assets/Scenes/08BabydollChaos.unity
+    guid: dacb46ffb4f46154dadcf2e4fab0f987
+  - enabled: 1
+    path: Assets/Scenes/09APillow.unity
+    guid: 39460d6bf9dbfb1419b01a4bee1a3835
+  - enabled: 1
+    path: Assets/Scenes/09PillowPeace.unity
+    guid: 0b9c580638d4dff46bddc940d531a970
+  - enabled: 1
+    path: Assets/Scenes/10PillowChaos.unity
+    guid: d304c20d918884a4fb1ad13ecf8f615d
+  - enabled: 1
+    path: Assets/Scenes/12ANitrousoxide.unity
+    guid: 2dd9c97fec4bc99459875618a33bee8c
+  - enabled: 1
+    path: Assets/Scenes/12NitrousoxidePeace.unity
+    guid: a289525492a81064aabfa7dc32bebfe4
+  - enabled: 1
+    path: Assets/Scenes/13NitrousoxideChaos.unity
+    guid: 0deca2aa2125823469f70d4a68019538
+  - enabled: 1
+    path: Assets/Scenes/14AMiniBB.unity
+    guid: 10f7c9744174de64a8f550adef113dfd
+  - enabled: 1
+    path: Assets/Scenes/14MiniBBPeace.unity
+    guid: 55d7f093ceecfd748a83bcf1887318ca
+  - enabled: 1
+    path: Assets/Scenes/15MiniBBChaos.unity
+    guid: 837db379832b73d4083bad0f57d2ee4b
+  - enabled: 1
+    path: Assets/Scenes/16ADoctorscoat.unity
+    guid: 6fdd0a928d42fef43bf7319ea5b58968
+  - enabled: 1
+    path: Assets/Scenes/16DoctorscoatPeace.unity
+    guid: 6626ebe3bdf74d343b0a7206ecbdc604
+  - enabled: 1
+    path: Assets/Scenes/17DoctorscoatChaos.unity
+    guid: 2c51e12c03ed0b6488fd2bb37d2a79d2
   m_configObjects: {}
