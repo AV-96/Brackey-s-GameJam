@@ -27,6 +27,12 @@ EditorBuildSettings:
     path: Assets/Scenes/05ARubberSnake.unity
     guid: d9731cd2f35faca438c5566da218a6b8
   - enabled: 1
+    path: Assets/Scenes/5BPeaceClickRubberSnake.unity
+    guid: ca4c0a0f0bc71164b9602df82c33a533
+  - enabled: 1
+    path: Assets/Scenes/5CChaosClickRubberSnake.unity
+    guid: f85dc7ee04714a14fa0736c5c3e75114
+  - enabled: 1
     path: Assets/Scenes/05RubberSnakePeace.unity
     guid: f025fd00c304f64429a3989f742a04ce
   - enabled: 1
@@ -36,7 +42,13 @@ EditorBuildSettings:
     path: Assets/Scenes/07ABabydoll.unity
     guid: 42c222422e1d8584da2814738a8940e6
   - enabled: 1
-    path: Assets/Scenes/07BabydollPeace.unity
+    path: Assets/Scenes/7BPeaceClickBabydoll.unity
+    guid: 41cfdbb8acbfeb24ebc5596775bf757c
+  - enabled: 1
+    path: Assets/Scenes/7CChaosClickBabydoll.unity
+    guid: 1b703e2bb54f4d749be567364f063bb4
+  - enabled: 1
+    path: Assets/Scenes/07DBabydollPeace.unity
     guid: 816bacad6ccef1645be650127e41c0e8
   - enabled: 1
     path: Assets/Scenes/08BabydollChaos.unity
@@ -44,6 +56,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/09APillow.unity
     guid: 39460d6bf9dbfb1419b01a4bee1a3835
+  - enabled: 1
+    path: Assets/Scenes/9BPeaceClickPillow.unity
+    guid: bc4237cb98070e5419076936ed1f63f6
+  - enabled: 1
+    path: Assets/Scenes/9CChaosClickPillow.unity
+    guid: 7151b49354621fa4b99c08ffa6cb0878
   - enabled: 1
     path: Assets/Scenes/09PillowPeace.unity
     guid: 0b9c580638d4dff46bddc940d531a970
@@ -54,6 +72,12 @@ EditorBuildSettings:
     path: Assets/Scenes/12ANitrousoxide.unity
     guid: 2dd9c97fec4bc99459875618a33bee8c
   - enabled: 1
+    path: Assets/Scenes/12BPeaceClickNitrousoxide.unity
+    guid: ecaa2bc40fdb8184aaebc6f5bbbe9849
+  - enabled: 1
+    path: Assets/Scenes/12CChaosClickNitrousoxide.unity
+    guid: f1a9c4ca41936c549aec74f86fce2c7c
+  - enabled: 1
     path: Assets/Scenes/12NitrousoxidePeace.unity
     guid: a289525492a81064aabfa7dc32bebfe4
   - enabled: 1
@@ -62,6 +86,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/14AMiniBB.unity
     guid: 10f7c9744174de64a8f550adef113dfd
+  - enabled: 1
+    path: Assets/Scenes/14BPeaceClickMiniBB.unity
+    guid: e16456edcb4907b44984589b33bdd4d6
+  - enabled: 1
+    path: Assets/Scenes/14CChaosClickMiniBB.unity
+    guid: f1da71290ebf9324f82f1afb542ebd10
   - enabled: 1
     path: Assets/Scenes/14MiniBBPeace.unity
     guid: 55d7f093ceecfd748a83bcf1887318ca
@@ -72,6 +102,12 @@ EditorBuildSettings:
     path: Assets/Scenes/16ADoctorscoat.unity
     guid: 6fdd0a928d42fef43bf7319ea5b58968
   - enabled: 1
+    path: Assets/Scenes/16BPeaceClickDoctorscoat.unity
+    guid: e8fb3dced35ab7f4b896e094c0eafb5c
+  - enabled: 1
+    path: Assets/Scenes/16CChaosClickDoctorscoat.unity
+    guid: f37921dce38d222479a37427c7f4f221
+  - enabled: 1
     path: Assets/Scenes/16DoctorscoatPeace.unity
     guid: 6626ebe3bdf74d343b0a7206ecbdc604
   - enabled: 1
@@ -80,6 +116,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/19ARemoulade.unity
     guid: 58d6090e1db061e40a8926d4985ee46f
+  - enabled: 1
+    path: Assets/Scenes/19BPeaceClickRemoulade.unity
+    guid: f0b697b59ca1d0f4db0bea619b1f28f9
+  - enabled: 1
+    path: Assets/Scenes/19CChaosClickRemoulade.unity
+    guid: df2fbfa681f565b4989a7964eb54893c
   - enabled: 1
     path: Assets/Scenes/19RemouladePeace.unity
     guid: 6082e8086b68c9c46a2f7ac68d416bc1
@@ -90,7 +132,13 @@ EditorBuildSettings:
     path: Assets/Scenes/21ACake.unity
     guid: 68e4d286f19422f4f86b9114a9291610
   - enabled: 1
-    path: Assets/Scenes/21CakePeace.unity
+    path: Assets/Scenes/21BPeaceClickCake.unity
+    guid: 134c7a7832331e8489e43cf925363290
+  - enabled: 1
+    path: Assets/Scenes/21CChaosClickCake.unity
+    guid: bc04bbf3ed6ef174698e01bcf5a4e919
+  - enabled: 1
+    path: Assets/Scenes/22ACakePeace.unity
     guid: 317383b7c5597b84e8b20d0d7a1fd4e2
   - enabled: 1
     path: Assets/Scenes/22CakeChaos.unity
@@ -98,6 +146,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/23ACurtainrod.unity
     guid: 111a4045b9d9e174c997e6931142ace3
+  - enabled: 1
+    path: Assets/Scenes/23BPeaceClickCurtainrod.unity
+    guid: 29f0680483c44a941b8168abca41fd70
+  - enabled: 1
+    path: Assets/Scenes/23CChaosClickCurtainrod.unity
+    guid: 95b30e2044f560546a42c172652a4f3e
   - enabled: 1
     path: Assets/Scenes/23CurtainrodPeace.unity
     guid: ecd0fdcc340cebb48afccaf3d326e8b9
